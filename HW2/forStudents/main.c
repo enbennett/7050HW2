@@ -20,7 +20,7 @@ int main(void)
 
     GetEdges(edges,countEdges);
     BuildAdjacency(vertices,edges,countVertices,countEdges);
-    PrintVertices(vertices,countVertices);
+    //PrintVertices(vertices,countVertices);
     /******************************************************/
 
 	// Now, run MST
